@@ -1,0 +1,9 @@
+main:
+  - url: '/'
+    text: 'Home'
+  - url: 'https://neic.nordforsk.org'
+    text: 'NeIC'
+  - url: '/partners/'
+    text: 'Partners'
+  - url: '/contact/'
+    text: 'Contact'

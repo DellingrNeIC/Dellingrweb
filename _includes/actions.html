@@ -1,0 +1,19 @@
+<div class="container mtb">
+    {% for action in site.actions %}
+        <div class="row">
+            <div class="col-sm-2">
+            </div>
+            <div class="col-sm-8">
+                <h3>{{ action.name }}</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-2">
+                <a href="{{ action.website }}" target="_blank"><img src="{{ site.baseurl }}/{{ action.logo }}" alt="{{ action.name }} logo" style="width:120px"></a>
+            </div>
+            <div class="col-sm-8">
+                <p>{{ action.content }}</p>
+            </div>
+        </div>
+    {% endfor %}
+</div>

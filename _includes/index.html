@@ -1,0 +1,110 @@
+<div id="headerwrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 col-lg-offset-1">
+                <h3>Nordic Sharing and Exchange of eInfrastructure Resources</h3>
+                <h1>Dellingr</h1>
+                <h5>A Nordic e-Infrastructure Collaboration Project</h5>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <a name="about"></a>
+    <div class="row">
+        <div class="col-sm-8">
+          <h3 class="text-center top-space">About the project</h3>
+	  <div class="row">
+	    
+            <p>
+	       An effort focused on HPC and related aspects complements these efforts and is consistent with strategic directions in the Nordic region as embodied in the Nordic e-Science Action Plan:
+<ul>
+	       <li> Action 6: Nordic Sharing and Exchange of eInfrastructure Resources</li>
+	       <li> Action 8: Nordic High Performance Computing Collaboration.</li>
+</ul>
+And in the NeIC Strategy Implementation Plan 2016-2020, which has Share Resources as one of the four focus areas. From the Plan:
+Resources can be hardware (CPU cycles, storage), software, services, or human resources. A framework for sharing hardware resources is necessary for pursuing several collaboration opportunities, including HPC, data storage and cloud initiatives. Important elements include federated authentication, authorization and accounting, as well as harmonizing procedures in compliance with national rules and regulations. Another opportunity is the sharing of application expertise for advanced user support.
+One of the strong motivations on the part of the national providers is to more fully understand the opportunities for their national researchers to have undisrupted access to high quality computational resources during transition periods between systems and architectures. These transition periods primarily occur during hardware upgrades and acquisitions.
+</div>
+          </p>
+<div class="row">
+                    <h3 class="text-center top-space">Expected benefit</h3>
+                    <p>
+		      The expected benefits can be categorized for researchers, e-infrastructure providers and NeIC.
+A primary benefit of the first phase for the national providers is documentation of the commonalities and differences in approaches to the technical and administrative tasks of supporting an active research community on large scale computational resources. This information will be useful to other international projects in the Nordics, with a simple example being the differences in authentication processes that have been adopted for the computational resources.
+		      The benefits for researchers include:
+		      <ul>
+			<li>Increased access to a broader set of computational and data analysis resources through a consistent process for resource requests and user support that complements the national and European processes, e.g. PRACE.</li>
+<li> Increased efficiency in utilizing the available resources through more efficient user support mechanism and highly </li>
+qualified personnel.
+		      </ul>
+		      
+		      The benefits for e-infrastructure providers include:
+		      <ul>
+<li> Greater ability to focus on areas of strategic value and specialization for the systems and technical personnel</li>
+<li> Increased capability to support a broader set of national users with unique requirements through partnerships with collaborating providers </li>
+<li> Greater capability to support a national users during system transitions or peak periods through partnerships with collaborating providers </li>
+		      <li> Broader understanding of the capabilities of a larger range of systems and capabilities </li>
+		      </ul>
+		      
+			The benefits to NeIC:
+		      <ul>
+			<il>Increased range of Nordic science cases with complex goals and requirements.</il>
+			<il>Complementarity with Glenna and similar resource focused Nordic projects</il>
+		</ul>
+                    </p>
+      
+            </div>
+
+        </div>
+        <div class="col-sm-4">
+          <h2>Actions identified in the Nordic eScience Action Plan 2.0</h2>
+	      <div class="row">
+        {% for action in site.actions %}
+
+            <div class="centered">
+                <table>
+                    <tr height="150px">
+                        <td>
+                            <a href="{{ action.website }}" target="_blank"><img src="{{ action.logo }}" alt="{{ action.name }} logo" style="width:200px"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>{{ action.name }}</p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+        {% endfor %}
+    </div>
+
+    </div>
+</div>
+
+<div class="container">
+    <a name="partners"></a>
+    <h2 class="text-center top-space">Partners</h2>
+    <div class="row">
+        {% for partner in site.partners %}
+        <div class="col-md-15 col-sm-3">
+            <div class="centered">
+                <table>
+                    <tr height="150px">
+                        <td>
+                            <a href="{{ partner.website }}" target="_blank"><img src="{{ partner.logo }}" alt="{{ partner.name }} logo" style="width:120px"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>{{ partner.name }}</p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
