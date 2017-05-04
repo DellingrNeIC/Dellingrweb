@@ -1,6 +1,9 @@
 _drafts/
 _site/
 .sass-cache
+.vagrant
+.jekyll-metadata
+Vagrantfile
 # emacs backup file
 *~
 # emacs recovery file
