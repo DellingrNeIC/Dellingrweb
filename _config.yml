@@ -70,3 +70,5 @@ collections:
     output: false
   actions:
     output: false
+
+theme: jekyll-theme-cayman
