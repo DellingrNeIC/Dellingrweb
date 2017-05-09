@@ -1,5 +1,5 @@
 ---
-name: Rannsókna og háskólanet Íslands
+name: Icelandic University Research Network
 website: http://rhnet.is/
 logo: assets/img/logos/rhnet.jpg
 ---
