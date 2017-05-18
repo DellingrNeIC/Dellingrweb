@@ -1,9 +1,11 @@
 main:
   - url: '/'
     text: 'Home'
-  - url: 'https://neic.nordforsk.org'
-    text: 'NeIC'
+  - url: '/apply/'
+    text: 'Apply'
   - url: '/partners/'
     text: 'Partners'
   - url: '/contact/'
     text: 'Contact'
+  - url: 'https://neic.nordforsk.org'
+    text: 'NeIC'
