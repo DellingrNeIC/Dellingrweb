@@ -3,7 +3,7 @@ main:
     text: 'Home'
   - url: '/apply/'
     text: 'Apply'
-  - url: 'http://wiki.nlpl.eu/index.php/Home'
+  - url: '/usecases/'
     text: 'Use cases'
   - url: '/partners/'
     text: 'Partners'
