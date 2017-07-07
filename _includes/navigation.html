@@ -9,7 +9,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ site.baseurl }}/">Dellingr</a>
+            <a class="navbar-brand" href="/">Dellingr</a>
         </div>
 
         <!-- collect the nav links, forms, and other content for toggling -->
@@ -24,7 +24,7 @@
                                     {% if i.url contains "http" %}
                                         <li><a href="{{ i.url }}" target="_blank">{{ i.text }}</a></li>
                                     {% else %}
-                                        <li><a href="{{ site.baseurl }}{{ i.url }}">{{ i.text }}</a></li>
+                                        <li><a href="/{{ i.url }}">{{ i.text }}</a></li>
                                     {% endif %}
                                 {% endfor %}
                             </ul>
@@ -33,7 +33,7 @@
                         {% if item.url contains "http" %}
                             <li><a href="{{ item.url }}" target="_blank">{{ item.text }}</a></li>
                         {% else %}
-                            <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.text }}</a></li>
+                            <li><a href="{{ item.url }}">{{ item.text }}</a></li>
                         {% endif %}
                     {% endif %}
                 {% endfor %}
