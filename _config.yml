@@ -70,5 +70,3 @@ collections:
     output: false
   usecases:
     output: false
-  actions:
-    output: false
