@@ -9,6 +9,14 @@
             {% include {{ page.include }}.html %}
         {% endif %}
 
+        <div class="container mtb">
+            <div class="row">
+                <div class="col-sm-12">
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+
         {% include footer.html %}
         {% include js.html %}
     </body>

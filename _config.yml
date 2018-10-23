@@ -21,7 +21,7 @@ unpublished: false
 
 # plugins
 whitelist: []
-gems:      []
+plugins:   []
 
 # conversion
 markdown:    kramdown
@@ -69,6 +69,4 @@ collections:
   partners:
     output: false
   usecases:
-    output: false
-  actions:
     output: false

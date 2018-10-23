@@ -3,6 +3,7 @@ _site/
 .sass-cache
 .vagrant
 .jekyll-metadata
+.idea/
 Vagrantfile
 # emacs backup file
 *~
