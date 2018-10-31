@@ -1,7 +1,7 @@
 ---
 name: Nordic e-Infrastructure Collaboration
 website: https://neic.nordforsk.org
-logo: assets/img/logos/neic.png
+logo: assets/img/logos/NEIC_logo_screen_black.png
 ---
 
 The Nordic e-Infrastructure Collaboration (NeIC) is an organisation that
