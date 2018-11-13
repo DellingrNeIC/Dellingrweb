@@ -3,6 +3,8 @@ main:
     text: 'Home'
   - url: '/apply/'
     text: 'Apply'
+  - url: '/guide/'
+    text: 'Guide'
   - url: '/usecases/'
     text: 'Use cases'
   - url: '/partners/'

@@ -3,9 +3,8 @@ layout: master
 title: Apply for resources
 ---
 
-> The current Dellingr pilot is not accepting applications any more.
-> We aim to have a new call later this year with improvements
-> based on the experiences from this pilot project.
+> We are happy to announce opening of a self-service platform for requesting and managing access to
+> Nordic resources. Please follow 
 
 The Dellingr project aims at offering an easy and immediate access to Nordic e-Infrastructure for small resource
 projects. Small resource projects are projects that require a small volume of resources for a limited period,
