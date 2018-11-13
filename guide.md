@@ -3,6 +3,10 @@ layout: master
 title: Guide for using a Dellingr platform
 ---
 
+<div style="text-align: center; font-size: 30px; color: red;">
+Work in progress
+</div>
+
 {::options parse_block_html="true" /}
 <div style="float: right">
 
