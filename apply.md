@@ -4,7 +4,7 @@ title: Apply for resources
 ---
 
 > We are happy to announce opening of a self-service platform for requesting and managing access to
-> Nordic resources. Please follow [instructions](/guide/#getting-resources-via-dellingr) to applly!
+> Nordic resources. Please follow [instructions](/guide/#getting-resources-via-dellingr) to apply!
 
 The Dellingr project aims at offering an easy and immediate access to Nordic e-Infrastructure for small resource
 projects. Small resource projects are projects that require a small volume of resources for a limited period,
