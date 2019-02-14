@@ -1,5 +1,6 @@
 ---
 layout: master
+title:
 ---
 
 ## Getting resources via Dellingr
