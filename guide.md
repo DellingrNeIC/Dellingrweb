@@ -1,32 +1,23 @@
 ---
 layout: master
-title: Guide for using a Dellingr platform
 ---
-
-<div style="text-align: center; font-size: 30px; color: red;">
-Work in progress
-</div>
-
-{::options parse_block_html="true" /}
-<div style="float: right">
-
-{:.no_toc}
-
-* A markdown unordered list which will be replaced with the ToC
-{:toc}
-</div>
-
 
 ## Getting resources via Dellingr
 
 Dellingr offers a self-service for discovering and applying for resources from a number of HPC data centers.
-At this moment in time we offer batch resources only with cloud services in the pipeline.
+If you are already familiar with the process, please,
 
-### Applying for resource
+<div align="center">
+<a class="btn btn-success" href="https://share.neic.no/#/login/" target="_blank">Apply now!</a>
+</div>
+
+
+### Step-by-step guide for applying for resources
 
 #### Register in Dellingr self-service
 
-1. Go to [share.neic.no](https://share.neic.no).
+1. Go to [share.neic.no](https://share.neic.no/#/login/).
+
 
 2. Login using your EduGain identity.
 
@@ -40,10 +31,9 @@ If you are a Principal Investigator (PI), you should first create an organizatio
 
 #### Finding a matching resource
 
-1. Login into [share.neic.no](https://share.neic.no) and select organization you represent.
-2. Pick Marketplace from the menu.
+1. Pick Marketplace from the menu.
 <img class="img-responsive center-block" src="/assets/img/guide/marketplace.png" width="700">
-3. Browse, compare and discover available resources.
+2. Browse, compare and discover available resources.
 
 #### Requesting access
 
@@ -63,28 +53,3 @@ If you are a Principal Investigator (PI), you should first create an organizatio
 1. Go to Project -> Resources tab.
 2. Select the Resource for which you would like to get support.
 3. Select "Issues" sub-tab and create a new request.
-
-
-## Providing resources via Dellingr platform
-
-### On-boarding a service
-
-#### Registering as a service provider
-
-#### Registering a service
-
-### Processing customer requests
-
-### Reporting usage
-
-## Virtual Allocation Committee
-
-Virtual Allocation Committee (VAC) is processing requests of the user and filling the gap between
-user requirements, service providers' capabilities and requirements.
-
-VAC is intended to be replaced with automated transactions in the mid term based on formal requirements, till
-then user requests are creating ServiceDesk issues with all required information.
-
-[Dellingr ServiceDesk](https://dellingr.atlassian.net)
-
-Migration to automated flow does not cause any changes from the user perspective, only delivery speed goes up.
