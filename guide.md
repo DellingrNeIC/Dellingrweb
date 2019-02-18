@@ -3,14 +3,16 @@ layout: master
 title: User guide
 ---
 
-### Getting resources via Dellingr
 
-Dellingr offers a self-service for discovering and applying for resources from a number of HPC data centers.
-If you are already familiar with the process, please,
-
-<div align="center">
-<a class="btn btn-success" href="https://share.neic.no/#/login/" target="_blank">Apply now!</a>
+<div class="jumbotron">
+  <h2>Getting resources via Dellingr</h2>
+  <p>Dellingr offers a self-service for discovering and applying for resources from a number of HPC data centers.
+If you are <b>already familiar</b> with the process, please,
+  
+</p>
+  <p align="center"><a class="btn btn-success btn-lg" href="https://share.neic.no/#/login/" target="_blank">Apply now!</a></p>
 </div>
+
 
 &nbsp;
 

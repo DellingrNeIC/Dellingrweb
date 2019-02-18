@@ -2,25 +2,27 @@
 layout: master
 title: Getting resources
 ---
-<img class="img-responsive center-block" src="/assets/img/4682461024_10ce18b9ea_m.jpg" width="200">
 
-### Hello!
+<div class="jumbotron">
+  <h1>Hello!</h1>
+  <p>We are happy to announce a new round of testing of the <b>cross-border resource sharing service</b> by Dellingr project.
+  </p>
+    <img class="img-responsive center-block pull-right" src="/assets/img/4682461024_10ce18b9ea_m.jpg" width="200">
 
-We are happy to announce the a new round of testing of the cross-border resource sharing service by Dellingr project.
-
-The Dellingr project aims at offering an easy and immediate access to Nordic e-Infrastructure for small research
+  <p>
+  The Dellingr project aims at offering an easy and immediate access to Nordic e-Infrastructure for small research
 projects. Small research projects are projects that require up to 100k CPU/10k GPU core hours over a 6 month period.
+Access request and usage monitoring is done in Dellingr <a href="https://share.neic.no/">self-service platform</a>.
+</p>
+<p>
+Please follow <a href="/guide/">instructions</a> to apply! The list of available resource
+providers along with links ot the terms of services is provided in the self-service.
 
-Access request and usage monitoring is done in Dellingr [self-service platform](https://share.neic.no/).
-
-**Please follow [instructions](/guide/#getting-resources-via-dellingr) to apply! The list of available resource
-providers along with links ot the terms of services is provided in the self-service.**
-
-<div align="center">
-    <a class="btn btn-success" href="/guide/">Next</a>
+</p>
+  <p><a class="btn btn-success btn-lg" href="/guide/">Next</a></p>
 </div>
 
-&nbsp;
+
 
 ### Rules for participants
 
