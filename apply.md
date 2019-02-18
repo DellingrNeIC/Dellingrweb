@@ -1,15 +1,15 @@
 ---
 layout: master
-title:
+title: Getting resources
 ---
+<img class="img-responsive center-block" src="/assets/img/4682461024_10ce18b9ea_m.jpg" width="200">
 
-## Hello!
+### Hello!
 
 We are happy to announce the a new round of testing of the cross-border resource sharing service by Dellingr project.
 
 The Dellingr project aims at offering an easy and immediate access to Nordic e-Infrastructure for small research
 projects. Small research projects are projects that require up to 100k CPU/10k GPU core hours over a 6 month period.
-
 
 Access request and usage monitoring is done in Dellingr [self-service platform](https://share.neic.no/).
 
@@ -17,10 +17,12 @@ Access request and usage monitoring is done in Dellingr [self-service platform](
 providers along with links ot the terms of services is provided in the self-service.**
 
 <div align="center">
-    <a class="btn btn-success" href="/guide/#getting-resources-via-dellingr">Next</a>
+    <a class="btn btn-success" href="/guide/">Next</a>
 </div>
- 
-## Rules for participants
+
+&nbsp;
+
+### Rules for participants
 
 1. Resources are provided to the end users for free thanks to support by NordForsk.
 

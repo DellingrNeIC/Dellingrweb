@@ -9,5 +9,7 @@ main:
     text: 'Use cases'
   - url: '/partners/'
     text: 'Partners'
+  - url: '/serviceprovider/'
+    text: 'For resource providers'
   - url: 'https://neic.nordforsk.org'
     text: 'NeIC'

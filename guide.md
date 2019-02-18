@@ -1,9 +1,9 @@
 ---
 layout: master
-title:
+title: User guide
 ---
 
-## Getting resources via Dellingr
+### Getting resources via Dellingr
 
 Dellingr offers a self-service for discovering and applying for resources from a number of HPC data centers.
 If you are already familiar with the process, please,
@@ -12,6 +12,7 @@ If you are already familiar with the process, please,
 <a class="btn btn-success" href="https://share.neic.no/#/login/" target="_blank">Apply now!</a>
 </div>
 
+&nbsp;
 
 ### Step-by-step guide for applying for resources
 

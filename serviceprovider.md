@@ -3,7 +3,14 @@ layout: master
 title: Service provider guide
 ---
 
+<div style="text-align: center; font-size: 30px; color: red;">
+Work in progress
+</div>
+
+
 ## Providing resources via Dellingr platform
+
+The section below describes what actions are expected from a service provider 
 
 ### On-boarding a service
 
