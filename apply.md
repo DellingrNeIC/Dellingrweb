@@ -26,11 +26,14 @@ providers along with links ot the terms of services is provided in the self-serv
 
 ### Rules for participants
 
-1. Resources are provided to the end users for free thanks to support by NordForsk.
+1. Only requests for access to resources from another country will be considered at this moment. If you want to access resources in your country, please contact
+your national e-infrastructure provider.
 
-2. Participants of the Dellingr call must adhere to the terms of usage of the computing services they get.
+2. Resources are provided to the end users for free thanks to support by NordForsk.
 
-3. Work performed with the aid of resources obtained through this pilot may be acknowledged by:
+3. Participants of the Dellingr call must adhere to the terms of usage of the computing services they get.
+
+4. Work performed with the aid of resources obtained through this pilot may be acknowledged by:
 "This work was made possible (in part) by usage of computing resources at (institution) through the
 NeIC Dellingr resource sharing pilot." (or similar).
 
