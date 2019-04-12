@@ -5,14 +5,14 @@ title: Getting resources
 
 <div class="jumbotron">
   <h1>Hello!</h1>
-  <p>We are happy to announce a new round of testing of the <b>cross-border resource sharing service</b> by Dellingr project.
+  <p>We are happy to announce a new round of testing of the <b>cross-border resource sharing framework</b> by Dellingr project.
   </p>
     <img class="img-responsive center-block pull-right" src="/assets/img/4682461024_10ce18b9ea_m.jpg" width="200">
 
   <p>
-  The Dellingr project aims at offering an easy and immediate access to Nordic e-Infrastructure for small research
-projects. Small research projects are projects that require up to 50k CPU/5k GPU core hours over a 6 month period.
-Access request and usage monitoring is done in Dellingr <a href="https://share.neic.no/">self-service platform</a>.
+  The Dellingr project aims at offering an easy and expedited access to Nordic e-Infrastructure for small research projects.
+  Small research projects are projects that require up to 50k CPU/5k GPU core-hours over a 6 month period.
+  Access request is facilitated by and usage monitoring is shown in the Dellingr <a href="https://share.neic.no/">self-service platform</a>.
 </p>
 <p>
 Please follow <a href="/guide/">instructions</a> to apply! The list of available resource
