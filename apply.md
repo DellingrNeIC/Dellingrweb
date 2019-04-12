@@ -31,7 +31,7 @@ your national e-infrastructure provider.
 
 2. Resources are provided to the end users for free thanks to support by NordForsk.
 
-3. Participants of the Dellingr call must adhere to the terms of usage of the hosting computing services they use.
+3. Participants of the Dellingr call must adhere to the terms of usage of the hosting computing services they will use.
 
 4. Work performed with the aid of resources obtained through this pilot may be acknowledged by:
 "This work was made possible (in part) by usage of computing resources at (institution) through the
