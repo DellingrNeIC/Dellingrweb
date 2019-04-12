@@ -5,7 +5,7 @@ title: Getting resources
 
 <div class="jumbotron">
   <h1>Hello!</h1>
-  <p>We are happy to announce a new round of testing of the <b>cross-border resource sharing framework</b> by Dellingr project.
+  <p>We are happy to announce a new round of testing of the <b>cross-border resource sharing framework</b> by the Dellingr project.
   </p>
     <img class="img-responsive center-block pull-right" src="/assets/img/4682461024_10ce18b9ea_m.jpg" width="200">
 
@@ -16,7 +16,7 @@ title: Getting resources
 </p>
 <p>
 Please follow <a href="/guide/">instructions</a> to apply! The list of available resource
-providers along with links ot the terms of services is provided in the self-service.
+providers along with links to the terms of services is provided in the self-service.
 
 </p>
   <p><a class="btn btn-success btn-lg" href="/guide/">Next</a></p>
