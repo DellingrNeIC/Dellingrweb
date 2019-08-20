@@ -5,6 +5,8 @@ main:
     text: 'Apply'
   - url: '/guide/'
     text: 'Guide'
+  - url: '/faq/'
+    text: 'FAQ'
   - url: '/offerings/'
     text: 'Offerings'
   - url: '/usecases/'
