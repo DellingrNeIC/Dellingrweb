@@ -16,7 +16,9 @@ title: Getting resources
 </p>
 <p>
 Please follow <a href="/guide/">instructions</a> to apply! The list of available resource
-providers along with links to the terms of services is provided in the self-service.
+providers along with links to the terms of services is provided in the self-service and, briefly,
+<a href="/offerings/">here</a>. If you have specific questions, please first check <a href="/faq/">FAQ</a> and
+if the answer is not there, reach out to <a href="mailto:john.white@cern.ch">us</a>.
 
 </p>
   <p><a class="btn btn-success btn-lg" href="/guide/">Next</a></p>
