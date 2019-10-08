@@ -11,7 +11,7 @@ title: Getting resources
 
   <p>
   The Dellingr project aims at offering an easy and expedited access to Nordic e-Infrastructure for small research projects.
-  Small research projects are projects that require up to 50k CPU/5k GPU core-hours over a 6 month period.
+  Small research projects are projects that require up to 50k CPU/5k GPU core-hours in total over a 6 month period.
   Access request is facilitated by and usage monitoring is shown in the Dellingr <a href="https://share.neic.no/">self-service platform</a>.
 </p>
 <p>
