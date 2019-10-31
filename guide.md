@@ -11,6 +11,9 @@ If you are <b>already familiar</b> with the process, please,
   
 </p>
   <p align="center"><a class="btn btn-success btn-lg" href="https://share.neic.no/#/login/" target="_blank">Apply now!</a></p>
+
+<a href="/assets/img/guide/MAX-IV.pdf">Instructions for MAX-IV users</a>
+
 </div>
 
 
