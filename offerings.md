@@ -20,6 +20,8 @@ title: Available offerings
       </th>
       <th class="th-sm">GPU type
       </th>
+      <th class="th-sm">Status
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -31,10 +33,11 @@ title: Available offerings
       <td><a href="{{ offering.attributes.support_guide }}">{{ offering.name }}</a></td>
       <td>{{ offering.description }}</td>
       <td>{{ offering.customer_name }}</td>
-      <td>{{ offering.attributes.node_information_node_count }}</td>
-      <td>{{ offering.attributes.performance_tflops }}</td>
-      <td>{{ offering.attributes.node_information_memory }}</td>
-      <td>{{ offering.attributes.node_information_gpu | default:default_array | array_to_sentence_string: "and" | remove: "node_information_gpu_" }}</td>
+      <td>{{ offering.attributes.hpc_node_information_node_count }}</td>
+      <td>{{ offering.attributes.hpc_performance_tflops }}</td>
+      <td>{{ offering.attributes.hpc_node_information_memory }}</td>
+      <td>{{ offering.attributes.hpc_node_information_gpu | default:default_array | array_to_sentence_string: "and" | remove: "node_information_gpu_" }}</td>
+      <td>{{ offering.state }}</td>
     </tr>
 {% endfor %}
   </tbody>
