@@ -36,7 +36,7 @@ title: Available offerings
       <td>{{ offering.attributes.hpc_node_information_node_count }}</td>
       <td>{{ offering.attributes.hpc_performance_tflops }}</td>
       <td>{{ offering.attributes.hpc_node_information_memory }}</td>
-      <td>{{ offering.attributes.hpc_node_information_gpu | default:default_array | array_to_sentence_string: "and" | remove: "node_information_gpu_" }}</td>
+      <td>{{ offering.attributes.hpc_node_information_gpu | default:default_array | array_to_sentence_string: "and" | remove: "hpc_node_information_gpu_" }}</td>
       <td>{{ offering.state }}</td>
     </tr>
 {% endfor %}
